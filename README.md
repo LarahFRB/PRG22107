@@ -2,14 +2,14 @@
      width="30%"
      style="padding: 10px">
 
-# << Título do projeto >>
+# << Gerenciador de Apresentações >>
 
 ## << Descrição breve do domínio do problema >>
 
 > Repositório destinado para o desenvolvimento do projeto final da disciplina 
 > PRG22107 - Programação orientada objeto. 
 > 
-> Aluno: << Nome do aluno >>  
+> Aluno: Larah F R Barboza
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
