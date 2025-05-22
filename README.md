@@ -2,7 +2,7 @@
      width="30%"
      style="padding: 10px">
 
-# << Gerenciador de Apresentações >>
+# Gerenciador de Apresentações
 
 ## << Descrição breve do domínio do problema >>
 
@@ -10,6 +10,7 @@
 > PRG22107 - Programação orientada objeto. 
 > 
 > Aluno: Larah F R Barboza
+> 
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
