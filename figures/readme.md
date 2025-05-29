@@ -1,0 +1,1 @@
+Figuras usadas na documentação
