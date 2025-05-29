@@ -14,6 +14,8 @@ Possíveis requisitos funcionais e não-funcionais podem ser elencados aqui.
 
 Apresentar o diagram de casos de uso, identificando as funcionalidades do
 sistema assim como os atores envolvidos
+
+![casos de uso](https://github.com/LarahFRB/PRG22107/blob/main/figures/UseCaseDiagram-Project.png)
  
 ## Diagrama de Domínio do problema
 
