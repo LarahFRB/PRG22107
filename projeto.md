@@ -8,6 +8,13 @@ diagramas podem ser apresentados, caso julgue necessário.
 
 ![diagrama de classe](https://github.com/LarahFRB/PRG22107/blob/main/figures/ClassDiagram-project.png)
 
+Um caso de uso do projeto é o de ConsultarAgenda, designado à organização da disponíbilidade de participação de cada Tocador em Aprensentações.
+Esse caso de uso retorna a disponibilidade padrão do tocador e suas exceções, tem como ator o líder que ínicia a interação ao selecionar o tocador na lista de tocadores, o gerenciador retorna as informações sobre disponibilidade do tocador selecionado. 
+
+![diagrama de interação de um caso de uso](https://github.com/LarahFRB/PRG22107/blob/main/figures/Sequence.png)
+
+
+
 <div align="center">
 
 [Retroceder](analise.md) | [Avançar](implementacao.md)
