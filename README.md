@@ -4,7 +4,7 @@
 
 # Gerenciador de Apresentações
 
-## << Descrição breve do domínio do problema >>
+## Software para gerenciar apresentações de grupos artísticos de percussão, auxiliando os processos logísticos das apresentações.
 
 > Repositório destinado para o desenvolvimento do projeto final da disciplina 
 > PRG22107 - Programação orientada objeto. 
