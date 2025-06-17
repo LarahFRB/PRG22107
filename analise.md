@@ -6,14 +6,9 @@
 
 ## Descrição Geral do domínio do problema
 
-Descrever de forma geral o domínio do problema.
-
-Possíveis requisitos funcionais e não-funcionais podem ser elencados aqui.
+O contexto geral do problema se baseia em um grupo de pessoas que recebe solicitações de apresentação e necessita verificar a viabilidade de cada uma dessas apresentações com base nos integrantes disponíveis na data solicitada.
 
 ## Diagrama de Casos de Uso
-
-Apresentar o diagram de casos de uso, identificando as funcionalidades do
-sistema assim como os atores envolvidos
 
 ![casos de uso](https://github.com/LarahFRB/PRG22107/blob/main/figures/UseCaseDiagram-Project.png)
  
