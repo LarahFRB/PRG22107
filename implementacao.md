@@ -1,7 +1,7 @@
 # Implementação
 
 
-A interface consiste de uma tela principal com botões para as funções de cadastro e consultas, cada tela derivada da tela principal possui um botâo "ok", após clicar no botão os dados correspondentes a view são salvos no banco de dados.
+A interface consiste de uma tela principal com botões para as funções de cadastro e consultas, cada tela derivada da tela principal possui um botâo "ok", após clicar no botão os dados correspondentes a view são salvos no banco de dados. O códigos foram adicionados a pasta Gerenciador. 
 
 ![Overview](https://github.com/LarahFRB/PRG22107/blob/main/figures/Overview_interface.png)
 
