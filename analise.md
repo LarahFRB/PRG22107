@@ -1,8 +1,5 @@
 # Análise orientada a objeto
-> [!NOTE]
-> <p>A <strong>análise</strong> orientada a objeto consiste na descrição do 
-> problema a ser tratado, duas primeiras etapas da tabela abaixo, a definição de 
-> casos de uso e a definição do domínio do problema.</p>
+
 O contexto geral do problema se baseia em um grupo de pessoas que recebe solicitações de apresentação e necessita verificar a viabilidade de cada uma dessas apresentações com base nos integrantes disponíveis na data solicitada.
 
 O objetivo é proporcionar um sistema capaz de realizar o cadastro de tocadores e suas agendas, consultar os tocadores disponíveis em uma data específica e as músicas que podem ser performadas nesta data.
