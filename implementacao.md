@@ -4,7 +4,11 @@
 >Relatar o processo de implementação do problemas, incluindo as ferramentas e
 >bibliotecas utilizadas
 
-Para realização do projeto optou-se pelo uso do sql como gerenciador de arquivos. A estrutura do banco de dados é exibida na figura.
+A interface consiste de uma tela principal com botões para as funções de cadastro e consultas, cada tela derivada da tela principal possui um botâo "ok", após clicar no botão os dados correspondentes a view são salvos no banco de dados.
+
+![Overview](https://github.com/LarahFRB/PRG22107/blob/main/figures/Overview_interface.png)
+
+Para o banco de dados do projeto optou-se pelo uso do sqlite como gerenciador de arquivos. A estrutura do banco de dados é exibida na figura.
 
 ![db](https://github.com/LarahFRB/PRG22107/blob/main/bddiagram.png)
 
