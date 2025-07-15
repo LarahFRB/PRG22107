@@ -1,8 +1,5 @@
 # Implementação
 
->[!NOTE] 
->Relatar o processo de implementação do problemas, incluindo as ferramentas e
->bibliotecas utilizadas
 
 A interface consiste de uma tela principal com botões para as funções de cadastro e consultas, cada tela derivada da tela principal possui um botâo "ok", após clicar no botão os dados correspondentes a view são salvos no banco de dados.
 
